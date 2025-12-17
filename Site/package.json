@@ -1,8 +1,0 @@
-{
-  "name": "cartoon-smash-course-landing",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "@netlify/blobs": "^6.3.0"
-  }
-}
